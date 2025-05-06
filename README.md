@@ -22,4 +22,13 @@ This project analyzes risky driving behavior acro U.S. cities using vehicle sens
 - Clustering: K-Means
 - Visualization Dashboard
 
+---
+
+## Project Structure
+`data/`: Driver and risk-related datasets used for analysis
+- `Big Data Project Group 1`: Final project presentation detailing methodology, findings, and visual summaries
+- `BigDataProject_Group1`: Tableau workbook with K-Means clustering and interactive visualizations
+- `README.md`: Project overview, structure, and insights
+- `.gitignore`: Lists files and extensions to exclude from version control
+
 
